@@ -1,0 +1,73 @@
+AI Brand Tweet Generator
+
+An AI-powered web application that generates engaging, on-brand tweets based on user-provided brand information such as brand name, industry, campaign objective, and product details. The system analyzes the brand context and produces multiple tweet suggestions aligned with the brand’s communication style.
+Live Demo
+
+The application is deployed online and can be accessed using the following link:
+https://ai-generated-tweets.netlify.app/
+Project Overview
+
+Social media marketing requires consistent and engaging content. This project aims to simplify the process by using generative AI to automatically create tweets tailored to a brand’s identity.
+
+Users enter basic brand information, and the system generates a set of tweets that align with the brand’s voice and campaign objective. This helps marketers, startups, and businesses quickly generate social media content ideas.
+
+Features
+
+Generates 10 AI-powered tweets instantly
+
+Accepts brand name, industry, campaign objective, and product details
+
+Creates tweets aligned with brand voice and marketing goals
+
+Simple and interactive user-friendly interface
+
+AI-driven content generation
+
+Deployed online using Netlify for easy access
+
+Workflow of the System
+
+User Input
+The user enters brand details such as brand name, industry, campaign objective, and product description.
+
+Brand Context Analysis
+The system analyzes the provided information to understand the brand tone and communication style.
+
+AI Tweet Generation
+The AI model generates multiple tweet ideas that align with the brand's message.
+
+Display Output
+The generated tweets are displayed on the interface for the user to view and use.
+
+Technology Stack
+Frontend:
+React.js
+JavaScript
+HTML
+CSS
+AI Integration:
+Generative AI Model (Gemini API)
+Deployment:
+Netlify
+Development Tools:
+VS Code
+Git
+GitHub
+Screenshots
+User Input Interface
+
+Users provide brand information to generate tweets.
+Tweet Generation Output
+The system generates multiple tweets aligned with the brand voice.
+
+Future Improvements
+Support for multiple social media platforms (LinkedIn, Instagram captions)
+Advanced brand tone analysis
+Export tweets directly to social media platforms
+Custom tweet style selection (formal, humorous, promotional)
+
+Author
+Nitya Shetty
+B.Tech – Computer Science (AI & ML)
+
+⭐ If you like this project, consider giving it a star on GitHub!
